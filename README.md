@@ -17,7 +17,7 @@ I have used the websocket echo server so that you can test it locally. You can t
 
 ```sh
 # clone the repo
-$ git clone [https://github.com/vijay-joshi/vue-notifcations.git]
+$ git clone [https://github.com/vijay-joshi/vue-websocket-notifications]
 
 # change to directory
 $ cd vue-notifcations
