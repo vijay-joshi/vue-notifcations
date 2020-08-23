@@ -1,6 +1,8 @@
 {
-  "name": "notifs",
+  "name": "vue-notifications",
   "version": "0.1.0",
+  "description": "Web Notifications API and Web Sockets API example in vue app",
+  "author": "v08i",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
