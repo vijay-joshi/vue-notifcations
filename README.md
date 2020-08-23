@@ -1,4 +1,4 @@
-# vue-notifications
+# vue-websocket-notifications
 
 Ask for user consent to display desktop notifications, connect to a websocket server and display desktop notification in a vuejs app.
 
