@@ -30,3 +30,4 @@ $ npm run serve
 
 ```
 
+You can change the websocket URL from .env file.
