@@ -7,11 +7,14 @@ Ask for user consent to display desktop notifications, connect to a websocket se
 
 This is a sample application which demonstrates the use of Web Notifications API and Web Sockets API in a vue js app.
 
-Once you start the app, browser will display a box asking you to Allow or Deny displaying desktop notifications. You can allow or deny it.
+
+Once you start the app, browser will display a box asking you to Allow or Deny displaying desktop notifications. You can allow or deny it. User's consent is stored in a module in the vuex store which can be used to check the consent state application wide.
 
 After that it will connect to a web socket server using browser's inbuilt [Websockets](https://developer.mozilla.org/en-US/docs/Web/API/WebSocket) object.
 
-I have used the websocket echo server so that you can test it locally. You can try sending a test  message by clicking the Test Notification button.
+I have used the websocket echo server so that you can test it locally. You can try sending a test  message by clicking the Test Notification button. A test message is sent to the echo server which then returns it. It is captured by our websocket onmessage listener from where we display the notification. 
+
+[NotifyJS](https://www.npmjs.com/package/notifyjs) has been used to display the notifications.
 
 ## Installation
 
