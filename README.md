@@ -31,3 +31,14 @@ $ npm run serve
 ```
 
 You can change the websocket URL from .env file.
+
+
+## Screenshots
+
+Asking for user consent
+
+![Asking for user consent](https://github.com/vijay-joshi/vue-websocket-notifications/blob/master/src/assets/notif1.png?raw=true)
+
+Example notification
+
+![Example notification](https://github.com/vijay-joshi/vue-websocket-notifications/blob/master/src/assets/notif2.png?raw=true)
