@@ -28,7 +28,7 @@ $ cd vue-notifcations
 # install dependencies
 $ npm install
 
-# this will serve the website locally at http://localhost:4000/
+# this will serve the website locally at http://localhost:8080/
 $ npm run serve
 
 ```
