@@ -2,6 +2,10 @@
 
 Ask for user consent to display desktop notifications, connect to a websocket server and display desktop notification in a vuejs app.
 
+## Demo:
+
+https://vue-websocket-notifications.vercel.app/
+
 
 ## Introduction
 
