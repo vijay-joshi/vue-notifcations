@@ -27,7 +27,7 @@ export default {
   data() {
     return {
       testMessageTitle: 'Hola!',
-      testMessageBody: 'I can have notifications!',
+      testMessageBody: 'I can has notifications!',
     }
   },
   created() {
